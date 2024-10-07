@@ -32,16 +32,25 @@ export default function Home() {
       {/* Footer */}
       <footer className="mt-16 text-center text-gray-500 dark:text-gray-400">
         <p>
-          Created with <span className="text-red-500">♥</span> using Next.js.
+          Check out my projects on 
+          <a
+            href="https://github.com/yourusername"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 hover:underline"
+          >
+            GitHub
+          </a>
+          .
         </p>
         <p>
           <a
-            href="https://nextjs.org"
+            href="https://github.com/yourusername?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:underline"
           >
-            Learn more about Next.js
+            View my repositories
           </a>
         </p>
       </footer>
