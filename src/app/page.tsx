@@ -7,10 +7,10 @@ export default function Home() {
       {/* Header */}
       <header className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-          My Projects
+          Mina projekt
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-400">
-          A collection of my personal and open-source projects.
+          En samling av mina favoritprojekt
         </p>
       </header>
 
@@ -32,9 +32,9 @@ export default function Home() {
       {/* Footer */}
       <footer className="mt-16 text-center text-gray-500 dark:text-gray-400">
         <p>
-          Check out my projects on 
+          Fler projekt är tillgängliga på{" "}
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/f-i-l-i-p"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 hover:underline"
@@ -45,12 +45,12 @@ export default function Home() {
         </p>
         <p>
           <a
-            href="https://github.com/yourusername?tab=repositories"
+            href="https://github.com/f-i-l-i-p?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:underline"
           >
-            View my repositories
+            Visa fler projekt
           </a>
         </p>
       </footer>
