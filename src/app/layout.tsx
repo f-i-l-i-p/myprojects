@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "My Site",
+  title: "Projekt",
   robots: {
     index: false,
     follow: false,

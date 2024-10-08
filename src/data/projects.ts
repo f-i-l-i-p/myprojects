@@ -12,7 +12,7 @@ const projects = [
     image: "/images/regnkollen.png",
   },
   {
-    name: "Microchart",
+    name: "Elpris i realtid",
     description: "Ett lite mer hårdvarunära projekt som använder en RPi Pico W kopplad till en E-ink skärm för att hämta och visualisera kommande elpriser. Projektet är skrivet i MicroPython och hämtar data från ett REST API.",
     link: "https://github.com/f-i-l-i-p/microchart",
     image: "/images/microchart.jpg",
@@ -21,6 +21,7 @@ const projects = [
     name: "Recept",
     description: "En hemsida för att samla och dela recept. Hemsidan är skriven i React och hostas med GitHub pages, backenden är skriven i python och hostades på Heroku.",
     link: "https://github.com/f-i-l-i-p/recipes-backend",
+    image: "/images/recipes.png",
   },
 ];
 

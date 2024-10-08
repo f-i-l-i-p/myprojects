@@ -6,11 +6,11 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 p-8 sm:p-20">
       {/* Header */}
       <header className="text-center mb-12">
-        <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+        {/* <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
           Mina projekt
-        </h1>
+        </h1> */}
         <p className="text-lg text-gray-600 dark:text-gray-400">
-          En samling av mina favoritprojekt
+          En samling av mina favoritprojekt 🙂
         </p>
       </header>
 
